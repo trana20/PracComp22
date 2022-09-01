@@ -1,0 +1,79 @@
+    1  end
+    2  exit
+    3  pwd
+    4  ls/home
+    5  ls /home
+    6  cd
+    7  mkdir
+    8  mkdir praccomp
+    9  cd praccomp
+   10  touch test.txt
+   11  ls
+   12  ls -la
+   13  ls ..
+   14  ls -l
+   15  l -..
+   16  ls -..
+   17  ls -l..
+   18  ls -lh..
+   19  ls -lh ..
+   20  ls -la
+   21  echo $PATH
+   22  echo $USER
+   23  var='echo Hello"'
+   24  echo $var
+   25  clear
+   26  nao test.txt
+   27  nano test.txt
+   28  deletion
+   29  deletion text.txt
+   30  less test.text
+   31  rm test.txt 
+   32  ls
+   33  touch test.txt
+   34  mkdir yuh
+   35  ls
+   36  rmdir yuh
+   37  ls
+   38  mkdir yuh
+   39  touch yuh/test2.txt
+   40  rmdir yuh
+   41  rm -r yuh
+   42  cd
+   43  wget
+   44  wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
+   45  Miniconda3-latest-Linux-x86_64.sh
+   46  bash Miniconda3-latest-Linux-x86_64.sh
+   47  exit
+   48  cd
+   49  less -S miniconda3/
+   50  less -S Miniconda3-latest-Linux-x86_64.sh 
+   51  md5sum Miniconda3-latest-Linux-x86_64.sh 
+   52  conda install mamba -c conda-forge
+   53  mamba
+   54  mamaba install htop
+   55  mamba install htop
+   56  mamba install -C mamba forge
+   57  mamba install htop -c conda-forge
+   58  htop
+   59  ls
+   60  mkdir praccomp
+   61  cd praccomp
+   62  git
+   63  git clone https://github.com/trana20/praccomp22.git
+   64  ls
+   65  cd praccomp22/
+   66  nano README.md
+   67  echo
+   68  git status
+   69  git add README.md 
+   70  git status
+   71  git commmit -m "Added README.md"
+   72  git config --global user.email "anddtx@gmail.com"
+   73  git config --global user.name "Andrew"
+   74  git commmit -m "Added README.md"
+   75  git commit -m "Added README.md"
+   76  git status
+   77  git push 
+   78  git push
+   79  history > log.txt
