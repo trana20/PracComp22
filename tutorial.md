@@ -75,3 +75,14 @@ R example:
 ```r
 x <- 4^2
 ```
+
+## TASK LISTS
+
+- [] this is an incomlete item
+
+- [x] this is a complete item
+
+- [x] @mentions, #refs, [links](), **formatting**, and , <del>tags</del> supported
+- [x] list syntax required (and unordered or ordered list supported)
+
+
