@@ -2,6 +2,6 @@
 ## Andrew Tran
 ### 20220901
 
-- First day of git training
+- First day of Git training
 - Learned about cloning, committing, and pushing
 - Also some Markdown
