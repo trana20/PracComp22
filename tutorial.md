@@ -45,11 +45,11 @@ Ordered
 
 # IMAGES
 
-! [owl](
+! [owl](https://www.nps.gov/articles/000/great-gray-owl.htm)
 
 # LINKS
 
-https://brewerlab.net - automatic
+http://brewerlab.net - automatic
 
 ## BACKSLASH ESCAPE
 
