@@ -45,7 +45,7 @@ Ordered
 
 # IMAGES
 
-! [owl](https://www.nps.gov/articles/000/images/GGO_spread-wings_Mel-Clements.jpg?maxwidth=1200&autorotate=false&quality=78&format=webpm)
+! [owl](https://images.app.goo.gl/oy9U7H5EB262eVyRA)
 
 # LINKS
 
