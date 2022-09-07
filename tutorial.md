@@ -45,7 +45,7 @@ Ordered
 
 # IMAGES
 
-! [owl](https://www.nps.gov/articles/000/great-gray-owl.htm)
+! [owl](https://www.nps.gov/articles/000/images/GGO_spread-wings_Mel-Clements.jpg?maxwidth=1200&autorotate=false&quality=78&format=webpm)
 
 # LINKS
 
