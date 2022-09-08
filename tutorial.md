@@ -51,7 +51,6 @@ Ordered
 ## IMAGES
 
 ![owl](https://petapixel.com/assets/uploads/2021/10/babybarnowl-800x533.jpg)
-![owl](https://petapixel.com/assets/uploads/2021/10/babybarnowl-800x533.png)
 
 # LINKS
 
