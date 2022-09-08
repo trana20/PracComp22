@@ -48,10 +48,10 @@ Ordered
 - Point 2
 - Point 3
 
-# IMAGES
+## IMAGES
 
-![owl](https://www.hdwallpapers.in/download/orange_eyes_owl_in_green_leaves_background_hd_birds-HD.png)
-![owl](https://images.app.goo.gl/BeY7gLkAFEePmpgh7.png)
+![owl](https://petapixel.com/assets/uploads/2021/10/babybarnowl-800x533.jpg)
+![owl](https://petapixel.com/assets/uploads/2021/10/babybarnowl-800x533.png)
 
 # LINKS
 
