@@ -50,7 +50,7 @@ Ordered
 
 # IMAGES
 
-![owl](https://www.hdwallpapers.in/download/orange_eyes_owl_in_green_leaves_background_hd_birds-HD.jpg)
+![owl](https://www.hdwallpapers.in/download/orange_eyes_owl_in_green_leaves_background_hd_birds-HD.png)
 
 # LINKS
 
